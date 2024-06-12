@@ -1,9 +1,14 @@
 ## OII! 👋
 
-Meu nome é Júlia Lage e sou estudante do {ALURA}(https://www.alura.com.br)
+Meu nome é Júlia e sou estudante do {ALURA} (https://www.alura.com.br)
 
-Utilizo esse espaço para a aula de robotica do itinerario
+Utilizo esse espaço para a aula de robótica do Itinerário.
+
+Estou me desenvolvendo na linguagem JavaScript.
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
+### Você pode entrar em contato comigo 📫
 
 
-![](https://tenor.com/pt-BR/view/bye-bye-gif-17512544869401529141)
-
+00001110897595sp@al.educacao.sp.gov.br
